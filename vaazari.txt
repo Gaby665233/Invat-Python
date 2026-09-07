@@ -1,0 +1,3 @@
+Produsul costa 120.0 lei, iar pretul cu TVA este 142.8
+Produsul costa 392.0 lei, iar pretul cu TVA este 466.48
+Produsul costa 134.0 lei, iar pretul cu TVA este 159.46
