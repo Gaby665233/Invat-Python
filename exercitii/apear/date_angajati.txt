@@ -1,0 +1,3 @@
+Andrei,Developer,4500
+Elena,Designer,4000
+Mihai,Manager,6000
