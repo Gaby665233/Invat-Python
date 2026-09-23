@@ -1,3 +1,4 @@
 Andrei,Developer,4500
 Elena,Designer,4000
-Mihai,Manager,6000
+Mihai,Manager,6000,python,5000
+gabi,python,5000
